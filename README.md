@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vigil007
 - 👀 I’m interested in games, mvoies, music and Batman.
 - 🌱 I’m currently learning Medical Studies at ASU  & Python at home.
-- 💞️ I’m looking to collaborate on an open-source mail client for IOS.
+- 💞️ I’m looking to collaborate on an open-source mail client for IOS. If you would be able to teach me some code!
 
 <!---
 vigil007/vigil007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
